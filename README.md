@@ -1,5 +1,6 @@
 # Notebooks
-
+ 
+Developed a three-branch late-fusion system for automatic Alzheimer's disease detection from the DementiaBank Cookie Theft picture-description task, combining TF-IDF lexical features, HuBERT acoustic representations, and GPT-4o-mini scene-graph scoring. The final system achieved AUROC 0.9257 and F1 0.8537 on held-out test data, with statistically significant improvements over the TF-IDF baseline.
 The notebooks are preserved with outputs where useful for project traceability.
 They are numbered by role/history rather than treated as a clean production
 pipeline.
